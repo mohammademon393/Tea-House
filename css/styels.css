@@ -36,3 +36,23 @@ p{
     top: -100px;
     left: 100px;
 }
+
+/* Main section */
+.m-sec1{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+}
+.m-sec1 h1{
+    font-size: 45px;
+    font-weight: bolder;
+    margin-bottom: -10px;
+}
+.tea{
+    width: 265px;
+    height: 360px;
+    background-color: rgb(192, 219, 244);
+    padding-top: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
