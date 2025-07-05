@@ -18,6 +18,7 @@ p{
     margin-left: 80px;
     margin-top: 30px;
     margin-right: 10px;
+    justify-content: center;
 }
 .h-div1 h1{
     font-size: 80px;
@@ -55,4 +56,14 @@ p{
     padding-top: 20px;
     border-radius: 10px;
     margin-top: 20px;
+}
+
+/* Section 2 part2 container */
+.great-tea h1{
+    font-size: 46px;
+    font-weight:bolder;   
+}
+.great-tea h3{
+    font-size: 20px;
+    font-weight:bolder;   
 }
